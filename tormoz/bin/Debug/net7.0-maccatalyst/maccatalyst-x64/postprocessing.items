@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="tormoz.app/Contents/MacOS/tormoz">
+      <BCSymbolMapName>tormoz.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>tormoz.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/tim/Projects/tormoz/tormoz/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>tormoz.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/tim/Projects/tormoz/tormoz</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
